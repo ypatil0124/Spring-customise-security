@@ -27,4 +27,5 @@ public class BankController {
     public String getDetails(){
         return "Our contact details are 1234567890";
     }
+
 }
